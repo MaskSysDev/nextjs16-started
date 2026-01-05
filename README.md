@@ -8,6 +8,7 @@ This project is a minimalist starter template for building modern applications u
 - TypeScript support
 - Styling with Tailwind CSS 4
 - Optimized fonts using `next/font` (Geist and Geist Mono)
+- Linting with Biome
 
 ## 🚀 Getting Started
 
@@ -46,6 +47,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the r
 - `dev`: Starts the development server
 - `build`: Builds the application for production
 - `start`: Starts the production server
+- `lint`: Runs the linter
+- `format`: Formats code
+- `check`: Checks if code is properly formatted without making changes
 - `check-types`: Runs TypeScript to check for type errors
 
 ## ☁️ Deployment
